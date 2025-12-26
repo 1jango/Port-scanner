@@ -38,3 +38,5 @@
 
 # python src/main.py -t <target> -p <ports>
 
+# python src/main.py -t 127.0.0.1 -p 80,443,8080
+
