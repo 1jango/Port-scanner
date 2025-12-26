@@ -40,3 +40,5 @@
 
 # python src/main.py -t 127.0.0.1 -p 80,443,8080
 
+# sudo python3 src/main.py -t 127.0.0.1 -p 80,443,8080 (macOS users)
+
